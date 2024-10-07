@@ -3,3 +3,6 @@ langchain-openai==0.1.8
 llmwhisperer-client==0.2.0
 pydantic==2.7.4
 python-dotenv==1.0.1
+llama-index-core
+llama-parse
+llama-index-readers-file
